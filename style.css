@@ -101,6 +101,7 @@ body {
   width: 350;
   height: 350;
   background-color: #eec099;
+  border-radius: 100%;
 }
 h1 {
   color: white;
